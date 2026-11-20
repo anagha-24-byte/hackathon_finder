@@ -1,0 +1,6 @@
+{
+  "name": "HackMate AI",
+  "description": "Autonomous Hackathon Discovery Agent that discovers, matches, and tracks hackathons across major platforms with Gemini AI.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
